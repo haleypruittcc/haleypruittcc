@@ -1,4 +1,4 @@
-### Hi there my name is haley 
+### Hi there my name is Haley 
 <h1>Hi, I'm Haley, an <a href="http://linkedin.com/in/haley-pruitt-211446248">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
