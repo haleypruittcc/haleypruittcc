@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/haleypruittcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/haleypruittcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Create Resource group and Virtual Machine](https://github.com/haleypruittcc/configure-ad)
+  - [Create Resource group and "Hello World"](https://github.com/haleypruittcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/haleypruittcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
