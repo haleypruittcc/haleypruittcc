@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Create Resource group and "Hello World"](https://github.com/haleypruittcc/ResourcegroupandHelloworld)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/haleypruittcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/haleypruittcc/NetworkSecurityGroups-NSGs-andInspectingNetworkProtocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/haleypruittcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/haleypruittcc/post-install-config)
