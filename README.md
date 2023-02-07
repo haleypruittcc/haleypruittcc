@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/haleypruittcc/NetworkSecurityGroups-NSGs-andInspectingNetworkProtocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/haleypruittcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/haleypruittcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/haleypruittcc/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/haleypruittcc/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
