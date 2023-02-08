@@ -9,7 +9,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/haleypruittcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/haleypruittcc/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/haleypruittcc/TicketLifecycle)
-
+- <b>VPN (Virtual Private Networks)</b>
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/haleypruittcc/osticket-prereqs)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Haley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
