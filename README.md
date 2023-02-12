@@ -11,7 +11,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/haleypruittcc/TicketLifecycle)
 - <b>VPN (Virtual Private Networks)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/haleypruittcc/VPNSetupandUsage-ProtonVPN-)
-- <b>VPN (Active Directory)</b>
+- <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/haleypruittcc/osticket-prereqs)
   - [Building Instuition for DNS](https://github.com/haleypruittcc/osTicket-Post-Installation-Configuration)
   - [Network Files Shares and Permissions](https://github.com/haleypruittcc/TicketLifecycle)
