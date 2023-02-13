@@ -12,9 +12,9 @@
 - <b>VPN (Virtual Private Networks)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/haleypruittcc/VPNSetupandUsage-ProtonVPN-)
 - <b>Active Directory</b>
-  - [Deploying Active Directory and Creating Users](https://github.com/haleypruittcc/osticket-prereqs)
-  - [Building Instuition for DNS](https://github.com/haleypruittcc/osTicket-Post-Installation-Configuration)
-  - [Network Files Shares and Permissions](https://github.com/haleypruittcc/TicketLifecycle)
+  - [Deploying Active Directory and Creating Users](https://github.com/haleypruittcc/Deploying-ActiveDirectoryandCreatingUsers)
+  - [Building Instuition for DNS](https://github.com/haleypruittcc/Building-Instuition-for-DNS)
+  - [Network Files Shares and Permissions](https://github.com/haleypruittcc/NetworkFilesSharesandPermission)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Haley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
